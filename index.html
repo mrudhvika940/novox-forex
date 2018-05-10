@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> dashboard </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href = "tab.css" rel = "stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script type="text/javascript" language="javascript" charset="utf-8" src="nav.js"></script>
+  </head>
+  <body style="width:100%; height:100%">
+    <header role="banner" id="top">
+      
+<div class="horizontalnavbar">
+  <a href="#home" >NOVOX</a>
+
+  <div class="headerdropdown">
+    <button class="headerdropbutton">Language 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="headerdropdownbutton-content">
+      <a href="#">English</a>
+      <a href="#">French</a>
+      <a href="#">Spanish</a>
+    
+    </div>
+  </div> 
+  
+  <div class="headerdropdown">
+    <button class="headerdropbutton">Theme 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="headerdropdownbutton-content">
+      <a href="#">White</a>
+      <a href="#">Green</a>
+      <a href="#">Blue</a>
+    
+    </div>
+  </div> 
+</div>
+
+    </header>
+    <div class="navbar" id="myTopnav">
+       <div class="dropdown">
+    <button class="dropbtn">Trade
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Crypto</a>
+      <a href="#">Forex</a>
+      <a href="#">Digital</a>
+      <a href="#">Options</a>
+    </div>
+  </div>
+      <a href="#news">Market Analysis</a>
+      <a href="#contact">Tournment</a>
+      <a href="#about">Leader Board</a>
+      <a href="#about">Video Tutorials</a>
+      <a href="#about">Chart Layouts</a>
+      <a href="#about">Help</a>
+      
+      </a>
+    </div>
+
+    <script>
+   /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+ </script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+ <script src="chart_display.js"></script>
+  </body>
+</html>
