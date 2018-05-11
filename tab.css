@@ -372,3 +372,169 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
     display: block;
 }
 
+
+.user-image{
+     width:40px;
+	 margin-top:15px;
+}
+.user-images1{
+     width:41px;
+}
+.user-images2{
+     width:41px;
+}
+.user-imagess3{
+     width:40px;
+	 margin-right:40px;
+	 margin-top:36px;
+}
+.user-imagess4{
+     width:40px;
+	 margin-right:40px;
+	 margin-top:0px;
+}
+.section{
+    margin-top:40px;
+}
+.user-section{
+    margin-top:-116px;
+}
+.user-sections{
+    margin-left:40px;
+}
+.buttonBuy{
+     color:#d93438;
+	 margin-right:20px;
+	font-size:12px;
+}
+.buttonSell{
+    color:#4194cf;
+	margin-left:20px;
+	font-size:12px;
+}
+.list-item{
+   background-color: #f1f1f1;
+   margin:-15px;
+   margin-top:25px;
+}
+.list-Novax{
+    list-style-type: none;
+    width: 100%;
+    overflow: auto;
+	text-align:right;
+  text-decoration: none;	
+   margin-left:-5px;
+}
+.list-Novax1{
+    list-style-type: none;
+    width: 100%;
+    overflow: auto;
+	text-align:left;
+    margin-left:-30px;	
+	text-decoration: none;
+	margin-top:-69px;
+}
+
+.button {
+    background-color: #ff8c1a; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.button4 {border-radius: 5px;}
+
+.langu{
+
+}
+.langu{
+  margin-left: 10px;
+  color: #fe771b;
+}
+.navlan{
+   display:block;
+   float:left;
+   color:#fff;
+   height:50px;
+   font-size:15px;
+   line-height:50px;
+   text-align:center;
+   width:116px;
+   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+   padding:0 15px;
+   font-weight:300;
+}
+.navtheme{
+   display:block;
+   float:left;
+   color:#fff;
+   height:50px;
+   font-size:15px;
+   line-height:50px;
+   text-align:center;
+   width:96px;
+   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+   padding:0 15px;
+   font-weight:300;
+}
+
+input {
+    width: 100%;
+}
+
+.input-group-btn-vertical {
+  position: relative;
+  white-space: nowrap;
+  width: 2%;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.input-group-btn-vertical > .btn {
+  display: block;
+  float: none;
+  max-width:30px;
+  padding: 8px;
+  margin-left: 6px;
+  position: relative;
+  border-radius: 0;
+}
+.input-group-btn-vertical > .btn:last-child {
+  margin-top: -2px;
+
+  
+}
+
+.input-group-btn-vertical i {
+  position: absolute;
+  top: 0;
+  left: 4px;
+
+}
+.shadow {
+    box-shadow: 3px 3px grey;
+    position: relative;
+}
+#fname{
+  background-color: black;
+  border: none;
+}
+.tab button {
+   
+ background:none;
+ border: none;
+ color: #fff;
+ padding: 10px 10px; 
+}
+.slidebtn{
+ background:none;
+ border: none;
+ color: #fff;
+}
+.slidebtn a:hover{
+   background:none;
+}
