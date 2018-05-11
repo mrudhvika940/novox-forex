@@ -322,6 +322,7 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin-top : 7px;
 }
 
 .dropdown {
