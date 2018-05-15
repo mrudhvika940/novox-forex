@@ -310,8 +310,7 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
     overflow: hidden;
     background-color: #282828;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 4px;  
-    text-
+    margin-top: 6px;  
 }
 
 
@@ -457,11 +456,8 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
    display:block;
    float:left;
    color:#fff;
-   height:50px;
    font-size:15px;
-   line-height:50px;
    text-align:center;
-   width:116px;
    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
    padding:0 15px;
    font-weight:300;
@@ -470,11 +466,8 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
    display:block;
    float:left;
    color:#fff;
-   height:50px;
    font-size:15px;
-   line-height:50px;
    text-align:center;
-   width:96px;
    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
    padding:0 15px;
    font-weight:300;
