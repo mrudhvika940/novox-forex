@@ -375,23 +375,25 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
 
 .user-image{
      width:40px;
-	 margin-top:15px;
+     margin-top:20px;
+     padding-top :6px;
+     padding-bottom : 1px;
 }
 .user-images1{
      width:41px;
 }
 .user-images2{
-     width:41px;
+     width:40px;
 }
 .user-imagess3{
      width:40px;
-	 margin-right:40px;
-	 margin-top:36px;
+     margin-right:40px;
+     margin-top:36px;
 }
 .user-imagess4{
      width:40px;
-	 margin-right:40px;
-	 margin-top:0px;
+     margin-right:40px;
+     margin-top:0px;
 }
 .section{
     margin-top:40px;
@@ -403,36 +405,47 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
     margin-left:40px;
 }
 .buttonBuy{
-     color:#d93438;
-	 margin-right:20px;
-	font-size:12px;
+    color:#d93438;
+    margin-right:20px;
+    font-size:12px;
+    line-height : 1.6;
 }
 .buttonSell{
     color:#4194cf;
-	margin-left:20px;
-	font-size:12px;
+    margin-left:20px;
+    font-size:12px;
 }
 .list-item{
-   background-color: #f1f1f1;
-   margin:-15px;
-   margin-top:25px;
+    background-color: #f1f1f1;
+    margin:-15px;
+    margin-top:25px;
 }
 .list-Novax{
     list-style-type: none;
     width: 100%;
     overflow: auto;
-	text-align:right;
-  text-decoration: none;	
-   margin-left:-5px;
+    overflow-x: auto;
+    overflow-y: auto;
+    text-align: right;
+    text-decoration: none;
+    text-decoration-color: currentcolor;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    margin-left: -5px;
 }
 .list-Novax1{
     list-style-type: none;
     width: 100%;
     overflow: auto;
-	text-align:left;
-    margin-left:-30px;	
-	text-decoration: none;
-	margin-top:-69px;
+    overflow-x: auto;
+    overflow-y: auto;
+    text-align: left;
+    margin-left: -30px;
+    text-decoration: none;
+    text-decoration-color: currentcolor;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    margin-top: -69px;
 }
 
 .button {
