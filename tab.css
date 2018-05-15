@@ -418,34 +418,19 @@ Also I have setup each h1 header element to use our custom "Merienda" font famil
 .list-item{
     background-color: #f1f1f1;
     margin:-15px;
-    margin-top:25px;
+    margin-top:45px;
 }
 .list-Novax{
-    list-style-type: none;
-    width: 100%;
-    overflow: auto;
-    overflow-x: auto;
-    overflow-y: auto;
     text-align: right;
-    text-decoration: none;
-    text-decoration-color: currentcolor;
-    text-decoration-line: none;
-    text-decoration-style: solid;
-    margin-left: -5px;
+    margin-top: -25px;
+    font-size: 15px;
+    line-height: 1.4;
 }
 .list-Novax1{
-    list-style-type: none;
-    width: 100%;
-    overflow: auto;
-    overflow-x: auto;
-    overflow-y: auto;
     text-align: left;
-    margin-left: -30px;
-    text-decoration: none;
-    text-decoration-color: currentcolor;
-    text-decoration-line: none;
-    text-decoration-style: solid;
-    margin-top: -69px;
+    margin-top: -63px;
+    font-size: 15px;
+    line-height: 1.4;
 }
 
 .button {
